@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Orbitron:wght@400;500;700;900&family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 222 40% 7%;  /* #0B0F19 */
+  --foreground: 210 40% 98%;
+  
+  --primary: 184 100% 50%; /* #00F0FF Neon Blue */
+  --primary-foreground: 222 47% 11%;
+  
+  --secondary: 262 83% 58%; /* #7C3AED Neon Purple */
+  --secondary-foreground: 210 40% 98%;
+  
+  --muted: 223 35% 15%;
+  --muted-foreground: 215 20% 65%;
+  
+  --accent: 340 100% 60%; /* Hot Pink accent for warnings/errors */
+  --accent-foreground: 210 40% 98%;
+  
+  --destructive: 0 84% 60%;
+  --destructive-foreground: 210 40% 98%;
+
+  --border: 217 32% 17%;
+  --input: 217 32% 17%;
+  --ring: 184 100% 50%;
+  
+  --radius: 0.5rem;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground antialiased selection:bg-primary/30 selection:text-white;
+    font-family: 'Inter', sans-serif;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Space Grotesk', sans-serif;
+  }
+  .font-title {
+    font-family: 'Orbitron', sans-serif;
+  }
+  .font-display {
+    font-family: 'Space Grotesk', sans-serif;
+  }
+}
+
+@layer utilities {
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-primary via-white to-secondary;
+  }
+  
+  .glass-card {
+    @apply bg-background/40 backdrop-blur-md border border-white/10 shadow-xl;
+  }
+  
+  .neon-border {
+    @apply border border-primary/50 shadow-[0_0_15px_rgba(0,240,255,0.3)];
+  }
+
+  .neon-border-purple {
+    @apply border border-secondary/50 shadow-[0_0_15px_rgba(124,58,237,0.3)];
+  }
+
+  /* Custom scrollbar for webkit */
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  ::-webkit-scrollbar-track {
+    @apply bg-background;
+  }
+  ::-webkit-scrollbar-thumb {
+    @apply bg-primary/20 rounded-full hover:bg-primary/50 transition-colors;
+  }
+
+  .scrollbar-hide {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none; /* Safari and Chrome */
+  }
+}

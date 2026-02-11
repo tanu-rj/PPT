@@ -1,0 +1,184 @@
+Build a high-end, single-page scrolling presentation website with a strong technical AI theme.
+
+Purpose:
+This website is for a 6–8 minute technical presentation for college tech students.
+Topic: “AI as a Developer’s Force Multiplier”
+The UI must look premium, futuristic, and developer-focused.
+
+Tech Requirements:
+- Use HTML, CSS, and JavaScript only.
+- Use TailwindCSS for styling.
+- Use GSAP or AOS for smooth scroll animations.
+- Smooth section transitions.
+- No lag.
+- Fully responsive (desktop + mobile).
+- Dark theme only.
+- Add subtle animated gradient or particle background.
+- Use glassmorphism cards where appropriate.
+- Use smooth scroll snap sections.
+
+Color Theme:
+Primary: Neon Blue (#00F0FF)
+Accent: Purple (#7C3AED)
+Background: Dark (#0B0F19 or similar)
+Text: Light gray / white
+Hover effects with glow or gradient borders.
+
+Font:
+Use modern tech fonts like:
+- Inter
+- Space Grotesk
+- Orbitron for headings
+
+Structure the website in the following sections:
+
+------------------------------------------------
+SECTION 1 – HERO
+------------------------------------------------
+Large bold heading:
+“AI as a Developer’s Force Multiplier”
+
+Subheading:
+From Prompt Engineering to Industrial Automation
+
+Short intro paragraph.
+
+Animated text entrance.
+Call-to-action button: “Scroll to Explore”
+
+------------------------------------------------
+SECTION 2 – ABOUT ME & COMPANY
+------------------------------------------------
+Two-column layout.
+
+Left:
+- Name
+- BCA Student
+- AI & Full Stack Intern
+- Working on AI-driven systems
+
+Right:
+About Petsgo (Tech-driven company leveraging AI and digital solutions)
+
+Use animated cards.
+
+------------------------------------------------
+SECTION 3 – GENERATIVE AI EXPLAINED
+------------------------------------------------
+Include:
+- What is Generative AI?
+- What are LLMs?
+- How token prediction works (simple explanation)
+- Where it is used (code, text, image, automation)
+
+Add animated diagram placeholder blocks.
+
+------------------------------------------------
+SECTION 4 – THE ULTIMATE PROMPT FORMULA
+------------------------------------------------
+Create a visually strong grid layout showing:
+
+ROLE
+TASK
+CONTEXT
+CONSTRAINTS
+OUTPUT FORMAT
+
+Below it show example prompt in styled code block.
+
+Add glowing border effect.
+
+------------------------------------------------
+SECTION 5 – AI TOOLS SWIPE SECTION (IMPORTANT)
+------------------------------------------------
+Create a horizontal swipe/slider section.
+Each tool should have:
+
+- Logo placeholder (circle)
+- Tool Name
+- Category (Coding / Design / Automation / Research / No-Code)
+- Detailed description (3–5 bullet points)
+- Real-world use case
+
+Include MANY tools such as:
+
+ChatGPT
+Replit
+Blackbox AI
+Gemini CLI
+Lovable
+Figma
+Dora AI
+Emergent
+GitHub Copilot
+Midjourney
+Notion AI
+Claude
+Perplexity
+Cursor AI
+Vercel AI
+HuggingFace
+Runway ML
+Canva AI
+
+Make each slide animated when active.
+Add smooth arrow navigation.
+Add swipe support.
+
+------------------------------------------------
+SECTION 6 – AI IN INDUSTRY
+------------------------------------------------
+Create animated cards for:
+
+Healthcare
+Finance
+Manufacturing
+Agriculture
+Education
+Cybersecurity
+
+Each card:
+- Title
+- 2–3 high-level AI use cases
+
+------------------------------------------------
+SECTION 7 – RISKS & ETHICS
+------------------------------------------------
+Dark section with red accent glow.
+
+Include:
+- Hallucination
+- Data privacy risks
+- Overdependence
+- Job disruption
+- Security vulnerabilities
+
+Add subtle glitch animation.
+
+------------------------------------------------
+SECTION 8 – FINAL MESSAGE
+------------------------------------------------
+Big bold animated text:
+
+“AI will not replace developers.
+Developers using AI will replace those who don’t.”
+
+Below it:
+Thank You
+Q&A
+
+------------------------------------------------
+ANIMATION REQUIREMENTS
+------------------------------------------------
+- Smooth fade-up animations on scroll.
+- Parallax background.
+- Section reveal transitions.
+- Button hover glow.
+- Card hover lift effect.
+- Horizontal slider smooth transform animation.
+
+Keep performance optimized.
+No heavy libraries beyond Tailwind + GSAP/AOS.
+Code must be clean and structured.
+
+Deliver full working code in a single HTML file.

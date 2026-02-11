@@ -1,0 +1,334 @@
+1️⃣ ChatGPT
+
+Category: Conversational AI / Code / Research
+
+What makes it unique:
+
+Multi-domain reasoning (code + logic + writing)
+
+Strong contextual memory in single session
+
+Rapid prototyping assistant
+
+Can simulate roles (architect, backend dev, security expert)
+
+Real Use Case:
+Generate full backend architecture with folder structure in minutes.
+
+Strength: Versatility
+Limitation: Can hallucinate technical details
+
+2️⃣ Replit
+
+Category: Cloud IDE + AI
+
+Unique Factor:
+
+Browser-based coding environment
+
+Built-in AI assistance
+
+Instant deployment
+
+No local setup required
+
+Use Case:
+Build MVP without installing anything.
+
+Strength: Speed to execution
+Limitation: Heavy apps may feel slower than local dev
+
+3️⃣ Blackbox AI
+
+Category: Code Search + Generation
+
+Unique Factor:
+
+Extracts code from videos
+
+Searches real code examples fast
+
+Strong for quick snippets
+
+Use Case:
+Find working implementation of rare APIs quickly.
+
+Strength: Code scraping ability
+Limitation: Not strong for architecture planning
+
+4️⃣ Gemini CLI
+
+Category: Terminal AI Assistant
+
+Unique Factor:
+
+Works inside terminal
+
+Command-based AI interaction
+
+Developer workflow focused
+
+Use Case:
+Automate tasks from terminal with AI support.
+
+Strength: Developer-native
+Limitation: Requires comfort with CLI
+
+5️⃣ Lovable
+
+Category: AI App Builder
+
+Unique Factor:
+
+Converts prompts into full-stack apps
+
+UI + backend scaffolding
+
+Fast prototype builder
+
+Use Case:
+Build SaaS MVP without manual setup.
+
+Strength: Speed
+Limitation: Customization depth may vary
+
+6️⃣ Figma
+
+Category: UI/UX Design
+
+Unique Factor:
+
+AI-assisted design
+
+Auto layout + component systems
+
+Real-time collaboration
+
+Use Case:
+Generate UI wireframes quickly.
+
+Strength: Industry standard
+Limitation: Not a full dev tool
+
+7️⃣ Dora AI
+
+Category: AI Website Builder
+
+Unique Factor:
+
+Text to animated website
+
+No-code motion design
+
+Visual storytelling focused
+
+Use Case:
+Create landing page from prompt.
+
+Strength: Motion UI
+Limitation: Limited backend logic
+
+8️⃣ Emergent
+
+Category: AI-native Development Tool
+
+Unique Factor:
+
+AI-generated product systems
+
+Focused on structured building
+
+Designed for AI-assisted workflows
+
+Use Case:
+Generate structured app blueprint.
+
+Strength: System thinking
+Limitation: Ecosystem still evolving
+
+9️⃣ GitHub Copilot
+
+Category: IDE AI Assistant
+
+Unique Factor:
+
+Real-time code suggestions
+
+Context-aware inside IDE
+
+Learns from file context
+
+Use Case:
+Write repetitive logic 2–3x faster.
+
+Strength: Seamless IDE integration
+Limitation: Can suggest insecure patterns
+
+🔟 Midjourney
+
+Category: AI Image Generation
+
+Unique Factor:
+
+Artistic quality output
+
+Style control
+
+Prompt-based creativity
+
+Use Case:
+Generate branding visuals instantly.
+
+Strength: Creative power
+Limitation: Not technical tool
+
+1️⃣1️⃣ Notion AI
+
+Category: Productivity AI
+
+Unique Factor:
+
+Integrated inside workspace
+
+Notes summarization
+
+Task automation
+
+Use Case:
+Convert meeting notes to action plan.
+
+Strength: Organization
+Limitation: Limited coding depth
+
+1️⃣2️⃣ Claude
+
+Category: Long-context AI
+
+Unique Factor:
+
+Handles very large documents
+
+Strong reasoning tone
+
+Safer output style
+
+Use Case:
+Analyze large technical documentation.
+
+Strength: Long context
+Limitation: Slower than some models
+
+1️⃣3️⃣ Perplexity
+
+Category: AI Research Engine
+
+Unique Factor:
+
+Real-time web citations
+
+Research-focused answers
+
+Source linking
+
+Use Case:
+Fast academic research summary.
+
+Strength: Citation-based
+Limitation: Not coding-focused
+
+1️⃣4️⃣ Cursor AI
+
+Category: AI Code Editor
+
+Unique Factor:
+
+Codebase-aware AI
+
+Can edit entire files
+
+Understands project context
+
+Use Case:
+Refactor large project with AI.
+
+Strength: Project-wide understanding
+Limitation: Requires proper prompting
+
+1️⃣5️⃣ Vercel AI
+
+Category: AI Deployment & SDK
+
+Unique Factor:
+
+AI SDK for building AI apps
+
+Fast deployment
+
+Optimized for Next.js
+
+Use Case:
+Deploy AI-powered web apps easily.
+
+Strength: Production-ready
+Limitation: Best with JS ecosystem
+
+1️⃣6️⃣ Hugging Face
+
+Category: AI Model Hub
+
+Unique Factor:
+
+Open-source model hosting
+
+Transformers library
+
+Community datasets
+
+Use Case:
+Access pre-trained models.
+
+Strength: Research + Open AI
+Limitation: Requires technical knowledge
+
+1️⃣7️⃣ Runway ML
+
+Category: AI Video Generation
+
+Unique Factor:
+
+Text-to-video
+
+Background removal
+
+Video editing AI
+
+Use Case:
+Create AI-generated promotional videos.
+
+Strength: Video AI
+Limitation: Creative-focused
+
+1️⃣8️⃣ Canva AI
+
+Category: AI Design Platform
+
+Unique Factor:
+
+AI presentation generator
+
+Text-to-image
+
+Auto layout
+
+Use Case:
+Create presentations in minutes.
+
+Strength: Beginner-friendly
+Limitation: Limited customization depth
+
+⚡ Now Important Strategy
+
+In presentation:
+
+Don’t explain all deeply.
+Group them:
