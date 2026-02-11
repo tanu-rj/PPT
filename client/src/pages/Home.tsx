@@ -1,4 +1,5 @@
 import { useState, useEffect, useCallback, useRef } from "react";
+import { Link } from "wouter";
 import { motion, useScroll, useSpring, AnimatePresence } from "framer-motion";
 import { ArrowDown, Code2, Cpu, Brain, Terminal, ShieldAlert, CheckCircle2, ChevronRight, Zap, ChevronLeft } from "lucide-react";
 import { SectionContainer, fadeInUp, staggerContainer } from "@/components/SectionContainer";
@@ -544,9 +545,11 @@ export default function Home() {
           </h3>
           
           <div className="pt-12">
-             <button className="px-8 py-3 rounded-full bg-white text-black font-bold hover:bg-gray-200 transition-colors flex items-center gap-2 mx-auto">
-               Let's Connect <ChevronRight className="w-4 h-4" />
-             </button>
+             <Link href="/connect">
+               <button className="px-8 py-3 rounded-full bg-white text-black font-bold hover:bg-gray-200 transition-colors flex items-center gap-2 mx-auto">
+                 Let's Connect <ChevronRight className="w-4 h-4" />
+               </button>
+             </Link>
           </div>
         </motion.div>
       </SectionContainer>
